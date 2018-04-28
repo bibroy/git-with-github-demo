@@ -10,4 +10,4 @@ As stated above, the main pupose is to provide simple examples for Git training 
 ## Deployment
 This is simple web project, deployment can be on any web server or even local file system.
 
-## How to contribute
+## How to contributeBe sure to have your SSH key set up and that your public key (located in ~/.ssh/id_rsa.pub) is added to your GitHub account

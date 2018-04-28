@@ -3,7 +3,8 @@
 User-agent: *
 Disallow:
 # This line has been added to demonstrate the usage of "git pull" command
-# This line has been added to demonstrate the usage of "git push" commanii
-# This line has been added to demonstrate the usage of SSH protocol
+# This line has been added to demonstrate the usage of "git push" command
+# This line has been added to demonstrate the usage of ssh protocol
+# This line has been added prior to "remote demo"
 
 # some line

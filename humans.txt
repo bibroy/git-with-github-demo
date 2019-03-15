@@ -10,7 +10,7 @@
 
 # THANKS
 
-  Bibhash Roy
+  Navdeep singh
 
 # TECHNOLOGY COLOPHON
 

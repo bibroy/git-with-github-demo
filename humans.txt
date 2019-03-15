@@ -16,3 +16,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+# This is new line by everyone

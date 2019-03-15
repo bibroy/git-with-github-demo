@@ -3,7 +3,6 @@
 User-agent: *
 Disallow:
 # This line has been added to demonstrate the usage of "git pull" 
-# This line has been added by navdeep.singh
-# This is my 2nd line locally by navdeep.singh
 # I would not prefer local changes as of now. Lets stick to online changes.
+# Lets Stick to Online changes.
 # some line
